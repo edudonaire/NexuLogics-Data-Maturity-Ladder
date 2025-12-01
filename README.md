@@ -1,3 +1,12 @@
+<p align="left">
+  <img src="https://img.shields.io/badge/version-v1.0.0-blue.svg" alt="Version">
+  <img src="https://img.shields.io/badge/license-CC%20BY--SA%204.0-green.svg" alt="License">
+  <img src="https://img.shields.io/badge/status-stable-brightgreen.svg" alt="Status">
+  <img src="https://img.shields.io/badge/standards-NIST%20CSF%202.0%20|%20AI%20RMF%201.0-orange.svg" alt="Standards">
+  <img src="https://img.shields.io/badge/category-Open%20Framework%20%2F%20Governance-lightgrey.svg" alt="Category">
+</p>
+
+
 # NexuLogics Data Maturity Ladder™
 **Open Standard & Governance Framework for U.S. SMEs**  
 Version: 1.0.0  
