@@ -84,6 +84,21 @@ This repository includes the complete **NIST submission package**, including:
 
 ---
 
+## 📄 Official Documentation
+
+All official publications of the NexuLogics Data Maturity Ladder™ are available in the /docs directory:
+
+Executive Summary (U.S. Adaptation)
+/docs/NexuLogics_US_Executive_Summary.pdf
+
+U.S. Regulatory Crosswalk
+/docs/NexuLogics_US_Regulatory_Crosswalk.pdf
+
+Modern Data Governance Whitepaper (v4.2)
+/docs/Donaire_Filho_2025_Modern_Data_Governance_Whitepaper_v4.2.pdf
+
+---
+
 ## 🧩 License
 This project is licensed under **CC BY-SA 4.0**.  
 You may share, remix, and commercialize as long as attribution and share-alike conditions are met.
