@@ -29,18 +29,20 @@ Provide a **public good**, free-to-use, scalable, government-aligned data govern
 
 ## 📂 Repository Structure
 
+```
 /docs
-|- NexuLogics_Data_Maturity_Ladder_v1.0.pdf
-|- U.S._Regulatory_Crosswalk.pdf
-|- NIST_Submission_Package.pdf
+   ├─ NexuLogics_Data_Maturity_Ladder_v1.0.pdf
+   ├─ U.S._Regulatory_Crosswalk.pdf
+   └─ NIST_Submission_Package.pdf
 
 /templates
-|- Assessment_Template.xlsx
-|- Prioritization_Template.xlsx
-|- Governance_Policy_Samples.docx
+   ├─ Assessment_Template.xlsx
+   ├─ Prioritization_Template.xlsx
+   └─ Governance_Policy_Samples.docx
 
 /examples
-|- Sample_Assessment_(Anonymized).xlsx
+   └─ Sample_Assessment_(Anonymized).xlsx
+```
 
 ---
 
