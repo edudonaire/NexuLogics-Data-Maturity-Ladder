@@ -29,3 +29,73 @@ Provide a **public good**, free-to-use, scalable, government-aligned data govern
 
 ## 📂 Repository Structure
 
+/docs
+|- NexuLogics_Data_Maturity_Ladder_v1.0.pdf
+|- U.S._Regulatory_Crosswalk.pdf
+|- NIST_Submission_Package.pdf
+
+/templates
+|- Assessment_Template.xlsx
+|- Prioritization_Template.xlsx
+|- Governance_Policy_Samples.docx
+
+/examples
+|- Sample_Assessment_(Anonymized).xlsx
+
+---
+
+## 📘 Core Framework Components
+
+### 1. Assessment Modules
+17-domain evaluation covering:
+- Governance
+- Security
+- Data Architecture
+- Compliance
+- AI Readiness
+- Operational Maturity
+
+### 2. Prioritization Engine
+Defines “High-Value, Low-Effort” implementation roadmap.
+
+### 3. Implementation Kit
+Templates, controls, sample policies, and quick-start guides.
+
+### 4. U.S. Regulatory Crosswalk
+Maps all components to:
+- NIST CSF 2.0  
+- NIST AI RMF  
+- FTC Safeguards  
+- GLBA  
+- HIPAA  
+- FIPA (Florida)  
+- Other state laws  
+
+---
+
+## 📤 NIST Submission
+This repository includes the complete **NIST submission package**, including:
+- Executive Summary  
+- SME Implementation Gap  
+- Proposed Contribution  
+- Framework Alignment  
+
+---
+
+## 🧩 License
+This project is licensed under **CC BY-SA 4.0**.  
+You may share, remix, and commercialize as long as attribution and share-alike conditions are met.
+
+---
+
+## 🤝 Contributing
+Pull Requests are welcome.  
+Proposed improvements that enhance SME cybersecurity, governance, or AI readiness are especially encouraged.
+
+---
+
+## 🏛 Maintainer
+**NexuLogics LLC**  
+Creator & Maintainer: **Eduardo Donaire Filho**  
+LinkedIn: https://linkedin.com/in/eduardo-donaire  
+Repository: https://github.com/edudonaire/NexuLogics-Data-Maturity-Ladder
